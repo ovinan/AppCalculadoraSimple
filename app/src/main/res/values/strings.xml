@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCalculadoraSimple</string>
+    <string name="boton1">Suma</string>
+    <string name="boton2">Restar</string>
+    <string name="boton3">Multiplicar</string>
+    <string name="boton4">Dividir</string>
+</resources>
